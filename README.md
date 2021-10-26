@@ -2,7 +2,7 @@
 
 #### _A landing page about me to show to employers_
 
-#### By _**{Ryan Rendon}**_
+#### By _**Ryan Rendon**_
 
 ## Technologies Used
 
@@ -15,12 +15,12 @@ _{Hello and thank you for viewing my landing page! This project uses concepts le
 
 ## Setup/Installation Requirements
 
-* _You can visit my github Rendo4 or you can copy this link to my repository https://github.com/Rendo4/code-review-1/tree/main_
+* _You can visit my github Rendo4 or you can copy this link to my repository https://github.com/Rendo4/epicodus-code-review-1_
 * _open your terminal_
 * _use the command "cd desktop"_
-* _use the command "git clone (https://github.com/Rendo4/code-review-1/tree/main)_
+* _use the command "git clone (https://github.com/Rendo4/epicodus-code-review-1)_
 * _It should now be on your desktop! Open the folder "code-review-1"_
-* _Click on "Index.html" This will open the file for viewing just like on gh-pages! link: https://rendo4.github.io/code-review-1/_
+* _Click on "Index.html" This will open the file for viewing just like on gh-pages! link:https://rendo4.github.io/epicodus-code-review-1/_
 
 ## Known Bugs
 
