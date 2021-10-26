@@ -7,6 +7,26 @@ img {
   float: left
 }
 
+h1 {
+  font-weight: 700;
+  text-align: center;
+  margin: 0%;
+}
+
+.bg {
+  font-weight: 700;
+  font-size: 25px;
+  text-decoration: underline;
+}
+
+.contact {
+  width: 100%;
+  font-style: italic;
+  color: black;
+  text-align: center;
+  margin: 0%;
+}
+
 p {
   width: 100%;
   margin: 0%;
